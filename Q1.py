@@ -15,19 +15,22 @@ Lposition = []
 def generate(ref_words,doc_freq,tokens,tf,i):
     n1 = len(ref_words)
     n2 = len(tokens)
-   
+    dot= 0
     n=56
     j=0
     k=0
+
     file = open('./sortedPosting/vector_{}.txt'.format(i),'w')
+    
     while(k<n2 and j<n1 and tokens[k]!=''):
         if(ref_words[j]!=tokens[k]):
             file.write(str(0))
             file.write('\n')
             j+=1
         else:
-            
+
             weight = int(tf[k])*math.log10(n/int(doc_freq[j]))
+            dot+=pow(weight,2)
             j+=1
             k+=1
             file.write(str(weight))
@@ -46,7 +49,7 @@ def generate(ref_words,doc_freq,tokens,tf,i):
         print(tokens[k])
         k+=1
     file.close()
-
+    return dot
 
 #############Vector GEnerator#####################################
 def generate_vector():
@@ -55,6 +58,8 @@ def generate_vector():
     ref_words = data.split('\n')
     file.close()
     file = open('./sortedPosting/sort.txt','r')
+    file1 = open('./sortedPosting/normalDocs.txt','w')
+
     data = file.read()
     doc_freq = data.split('\n')
     file.close()
@@ -67,11 +72,12 @@ def generate_vector():
         data = SP.read()
         tf = data.split('\n')
 
-        generate(ref_words,doc_freq,tokens,tf,i)
-
+        dot = generate(ref_words,doc_freq,tokens,tf,i)
+        file1.write(str(math.sqrt(dot)))
+        file1.write('\n')
         ST.close()
         SP.close()
-
+    file1.close()
         
         
         
@@ -186,18 +192,18 @@ def tokenizer():
     global err
     global Ltoken
     stopwords=[]
-    s = open('Stopword-List.txt','r')
+    s = open('Stopword-List.txt','r')  ###picking stopwords
     stopdoc=s.read()
     w=''
     for i in range(len(stopdoc)):
         if(stopdoc[i]=='\n'):
             if(w!=''):
-                stopwords.append(w)
+                stopwords.append(w)     #parsing stopwords
             w=''
         elif stopdoc[i]!=' ':
             w+=stopdoc[i]
     s.close()
-    #Tokenize stem fold case and find position of words
+    #Tokenize stem fold case of words
     
     for i in range(56):
         f = open('./Trump Speechs/speech_{}.txt'.format(i))
@@ -210,7 +216,7 @@ def tokenizer():
                 if((content[j] in [' ','.','\n',']']) and w!='' and w!="'"):
                     if(w not in stopwords and w not in [''] ):#removing stopwords
                         #wor = stemmer.stem(w)
-                        tk = lemmatizer.lemmatize(w)
+                        tk = lemmatizer.lemmatize(w)          #Lemmatization
                         
                         Ltoken.append(tk)
                         
@@ -225,12 +231,12 @@ def tokenizer():
 
 
         
-        mergeSort(Ltoken,0,len(Ltoken)-1)
+        mergeSort(Ltoken,0,len(Ltoken)-1)           #Sorting and adding frequency of Tokens In file
         
         ST = open('./sortedToken/sort_{}.txt'.format(i),'w')
         SP = open('./sortedPosting/sort_{}.txt'.format(i),'w')
         counter=1   
-        for l in range(0,len(Ltoken)-1):
+        for l in range(0,len(Ltoken)-1):          #Write token and tf to if no preceding word is same as current
             if Ltoken[l]!=Ltoken[l+1]:
                 ST.write(Ltoken[l])
                 SP.write(str(counter))
@@ -238,11 +244,10 @@ def tokenizer():
                 SP.write('\n')
                 counter=1
             else:
-                counter+=1
-        if(counter==0):
-            ST.write(Ltoken[len(Ltoken)-1])
-            SP.write(str(counter))
- 
+                counter+=1                          #preceding word is same increase tf
+        
+        ST.write(Ltoken[len(Ltoken)-1])
+        SP.write(str(counter))
         Ltoken.clear()
         ST.close()
         SP.close()
@@ -421,8 +426,8 @@ def process_Query(parsed):
     return result,query_tf,new_parsed
 
 def fetch_docs(query_tf,results):
-    print(query_tf)
-    print(results)
+    #print(query_tf)
+    #print(results)
     query_vector = []
     file = open('./sortedPosting/sort.txt')
     doc_freq = file.read().split('\n')
@@ -431,21 +436,23 @@ def fetch_docs(query_tf,results):
     for i in range(len(results)):
         query_vector.append(math.log10(56/int(doc_freq[results[i]]))*query_tf[i])
     print("------------")
+    print("Query Vector")
     print(query_vector)
     print("------------")
+    file1 = open('./sortedPosting/normalDocs.txt','r')
+    normal_vectors = file1.read().split('\n')
     for i in range(56):
         file = open('./sortedPosting/vector_{}.txt'.format(i),'r')
         vector = file.read().split('\n')
         ans = 0
         a = 0
-        b = 0
         for j in range(len(query_vector)):
             ans = ans+query_vector[j]*float(vector[results[j]])
             a+=pow(query_vector[j],2)
-            b+=pow(float(vector[results[j]]),2)
-    
+            
+        b = float(normal_vectors[i])
         try:
-            rslt =round(ans/(math.sqrt(a)*math.sqrt(b)),6)
+            rslt =round(ans/(math.sqrt(a)*b),6)
         except:
             rslt = 0
         weight.append(rslt)
@@ -454,9 +461,8 @@ def fetch_docs(query_tf,results):
     return weight
 
 
-#tokenizer()
-#Processor()
-#generate_vector()
+# tokenizer()
+# Processor()
 
 query = input("Enter Query: ")
 parsed = parse_Query(query)
@@ -465,6 +471,7 @@ results,query_tf,parsed = process_Query(parsed)
 
 for i in range(len(results)-1,-1,-1):
     if(results[i]==-1):
+        parsed.pop(i)
         results.pop(i)
         query_tf.pop(i)
 
@@ -473,4 +480,14 @@ docs = []
 for i in range(56):
     docs.append(i)
 sort_doc(result,docs,0,len(result)-1)
-print(list(zip(docs,result)))
+counter = 0
+for i in range(len(result)-1,-1,-1):
+    if(result[i]>0.0005):
+        print(docs[i],end=", ")
+        counter+=1
+    else:
+        print('\n')
+        print(counter)
+        break
+
+
