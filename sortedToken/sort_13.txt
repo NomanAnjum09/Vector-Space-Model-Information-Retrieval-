@@ -11,7 +11,7 @@ administration
 advance
 adversary
 affair
-africanamerican
+african
 again
 aggression
 agreed
@@ -32,6 +32,7 @@ apologizing
 appoint
 appointing
 armed
+art
 ask
 authority
 away
@@ -55,6 +56,7 @@ breach
 bring
 budget
 build
+building
 bureaucrat
 business
 but
@@ -240,7 +242,7 @@ meet
 meeting
 member
 men
-mexicanamericans
+mexican
 mexico
 middle
 military
@@ -253,7 +255,6 @@ much
 must
 my
 nation
-nationbuilding
 need
 never
 new
@@ -277,11 +278,12 @@ overseas
 part
 partner
 patriotism
-payforplay
+pay
 peace
 people
 personal
 plan
+play
 pledge
 policy
 politician
@@ -301,6 +303,7 @@ proud
 public
 pursue
 put
+quality
 race
 radical
 real
@@ -353,7 +356,6 @@ speak
 standard
 start
 state
-stateoftheart
 step
 stop
 stopping
@@ -373,7 +375,7 @@ taught
 tax
 taxpayer
 teaching
-tenstep
+ten
 terrorism
 terrorist
 thank
@@ -394,7 +396,7 @@ timely
 today
 together
 tool
-topquality
+top
 total
 trade
 training

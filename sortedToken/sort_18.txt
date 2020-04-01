@@ -16,6 +16,7 @@ $800
 1
 10
 11
+12
 123844
 13
 14
@@ -65,7 +66,6 @@ advanced
 adventure
 afghanistan
 african
-africanamerican
 after
 again
 age
@@ -100,6 +100,7 @@ attend
 august
 available
 average
+awaited
 back
 bad
 badly
@@ -130,7 +131,6 @@ blown
 bottom
 box
 break
-breakup
 briefing
 briefly
 bring
@@ -156,6 +156,7 @@ charter
 cheaper
 cheerleader
 chicago
+chief
 child
 china
 choice
@@ -173,7 +174,7 @@ collectively
 college
 come
 coming
-commanderinchief
+commander
 community
 company
 competition
@@ -194,7 +195,6 @@ could
 couldnt
 country
 cover
-coverup
 create
 credit
 crime
@@ -320,7 +320,6 @@ goal
 going
 good
 government
-governmentrun
 grade
 graduate
 grant
@@ -338,15 +337,14 @@ handled
 handling
 happened
 happily
+happy
 help
 here
 hers
 hiding
 high
-highpaying
 hillary
 hispanic
-hispanicamerican
 home
 homicide
 hope
@@ -396,7 +394,7 @@ journalist
 judgement
 july
 just
-k12
+k
 kid
 killed
 kind
@@ -431,8 +429,6 @@ live
 living
 local
 long
-longawaited
-longterm
 look
 los
 love
@@ -459,7 +455,7 @@ meanest
 meanwhile
 men
 mention
-meritpay
+merit
 mess
 michigan
 middle
@@ -515,7 +511,6 @@ our
 out
 outcome
 over
-overtaxation
 own
 pack
 packard
@@ -529,7 +524,7 @@ party
 past
 path
 pay
-payforplay
+paying
 payment
 peace
 pennsylvania
@@ -548,6 +543,7 @@ place
 placed
 plan
 plant
+play
 policy
 political
 politician
@@ -699,8 +695,10 @@ system
 take
 talk
 tax
+taxation
 teacher
 tenure
+term
 terrorism
 than
 thank
@@ -742,7 +740,7 @@ traditional
 tragic
 trained
 trapped
-triggerhappy
+trigger
 trillion
 troop
 turn

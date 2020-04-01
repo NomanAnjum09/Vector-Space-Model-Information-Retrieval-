@@ -44,8 +44,7 @@ administration
 administrationand
 adoption
 affordable
-africanamerican
-africanamericans
+african
 after
 again
 against
@@ -73,8 +72,8 @@ arrogant
 ask
 associate
 auto
-automanufacturing
 automobile
+awaited
 away
 back
 badly
@@ -99,7 +98,7 @@ bleeding
 boardroom
 border
 both
-breakingup
+breaking
 bridge
 bring
 business
@@ -131,7 +130,7 @@ cling
 clinton
 close
 cloud
-coconspirator
+co
 collect
 collection
 collusion
@@ -144,6 +143,7 @@ competitive
 confidant
 congress
 congressional
+conspirator
 constitution
 contribution
 control
@@ -163,7 +163,7 @@ criminal
 crony
 crumbling
 cut
-cuttingedge
+cutting
 d
 dangerous
 day
@@ -205,6 +205,7 @@ due
 easy
 economic
 economically
+edge
 education
 effect
 eight
@@ -335,10 +336,10 @@ it
 itselfno
 ive
 job
-jobkilling
 just
 justice
 keep
+killing
 know
 known
 korea
@@ -363,7 +364,6 @@ lobbied
 lobbying
 lobbyist
 long
-longawaited
 look
 looked
 losing
@@ -389,7 +389,6 @@ messed
 mexico
 michigan
 middle
-middleclass
 military
 million
 mined
@@ -424,7 +423,6 @@ number
 oath
 obama
 obamacare
-obamaclinton
 occasion
 off
 office
@@ -440,6 +438,7 @@ outsider
 oval
 over
 overseas
+pacific
 paid
 pain
 panicking
@@ -474,6 +473,7 @@ poverty
 power
 powerful
 praised
+predator
 president
 prestige
 problem
@@ -500,6 +500,7 @@ rebuild
 received
 regulation
 reject
+related
 released
 remark
 remember
@@ -597,7 +598,7 @@ stronger
 subpoena
 suburban
 summed
-superpredators
+super
 support
 supported
 supreme
@@ -639,7 +640,7 @@ too
 top
 tpp
 trade
-transpacific
+trans
 trapped
 travel
 treated
@@ -649,7 +650,7 @@ trump
 trying
 tunnel
 turning
-twentytwo
+twenty
 twin
 two
 u
@@ -707,7 +708,6 @@ work
 worker
 workforce
 working
-workrelated
 world
 would
 wronged

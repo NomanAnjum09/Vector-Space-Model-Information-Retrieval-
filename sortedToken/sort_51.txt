@@ -5,7 +5,6 @@ $800
 1
 10
 100
-100day
 13
 15
 16
@@ -49,7 +48,6 @@ always
 amazing
 amendment
 america
-americafirst
 american
 an
 annual
@@ -60,7 +58,9 @@ appoint
 approved
 aquifer
 arm
+armed
 back
+backed
 bad
 badly
 ballot
@@ -79,7 +79,6 @@ best
 biggest
 bill
 billion
-billiondollar
 bleached
 body
 border
@@ -88,7 +87,6 @@ broad
 brought
 brutally
 build
-buildup
 burned
 business
 businessman
@@ -126,8 +124,8 @@ couldnt
 country
 county
 court
+cover
 coverage
-coverup
 crashing
 craziest
 create
@@ -160,6 +158,7 @@ diplomat
 disadvantaged
 disappear
 disaster
+dollar
 donor
 dont
 door
@@ -190,6 +189,7 @@ endorsement
 energy
 enforcement
 engineer
+enter
 entering
 entry
 establishment
@@ -216,7 +216,6 @@ feel
 fight
 fire
 first
-firstever
 fix
 fixing
 flag
@@ -229,7 +228,7 @@ forced
 foreign
 forward
 francisco
-freedomloving
+freedom
 friend
 from
 front
@@ -250,6 +249,7 @@ grew
 grifter
 gross
 growing
+growth
 guard
 guided
 gunned
@@ -257,6 +257,7 @@ gunpoint
 half
 hammer
 happen
+happy
 he
 help
 helping
@@ -264,8 +265,7 @@ herbert
 here
 highest
 hillary
-hillarybacked
-hispanicamericans
+hispanic
 history
 home
 honesty
@@ -304,7 +304,6 @@ it
 item
 jacksonville
 job
-jobkilling
 joblessness
 john
 josh
@@ -316,6 +315,7 @@ keep
 key
 killed
 killer
+killing
 king
 knee
 known
@@ -345,6 +345,7 @@ living
 look
 looking
 lost
+loving
 lowering
 macdill
 made
@@ -389,10 +390,10 @@ next
 not
 november
 now
-nucleararmed
+nuclear
 oath
+obama
 obamacare
-obamaclinton
 offer
 offered
 office
@@ -400,6 +401,7 @@ officer
 offshoring
 okeechobee
 olander
+old
 one
 only
 open
@@ -417,7 +419,7 @@ paid
 panhandle
 part
 patrol
-payforplay
+pay
 payment
 peace
 pensacola
@@ -428,6 +430,7 @@ phone
 pier
 place
 plan
+play
 pledge
 podesta
 policy
@@ -443,9 +446,9 @@ previous
 price
 principle
 prison
+pro
 procedure
 product
-progrowth
 proposal
 prosperity
 protect
@@ -457,12 +460,12 @@ radicalism
 raise
 rally
 ransom
+re
 reagan
 rebuild
 reckless
 record
 reduction
-reenter
 reform
 regime
 regulation
@@ -588,7 +591,7 @@ tortured
 tough
 trade
 transform
-triggerhappy
+trigger
 trillion
 trump
 trying
@@ -651,7 +654,6 @@ working
 world
 worried
 year
-yearold
 yes
 yesterday
 yet

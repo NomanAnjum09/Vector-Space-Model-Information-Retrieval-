@@ -159,7 +159,7 @@ corruption
 could
 countless
 country
-coverup
+cover
 crack
 create
 creates
@@ -221,6 +221,7 @@ drug
 due
 during
 duty
+e
 each
 easier
 easily
@@ -254,7 +255,6 @@ everybody
 everyone
 evidence
 example
-examplesforty
 excessive
 executive
 expanding
@@ -422,8 +422,9 @@ look
 lose
 louisiana
 loved
-lowwage
+low
 made
+mail
 maintain
 major
 make
@@ -488,7 +489,6 @@ official
 often
 older
 one
-onetime
 ongoing
 only
 opportunity
@@ -614,7 +614,7 @@ saying
 scandal
 scheme
 school
-secondclass
+second
 secretary
 securely
 security
@@ -704,8 +704,8 @@ time
 timely
 today
 too
+top
 topic
-topquality
 torn
 total
 totally
@@ -751,6 +751,7 @@ visa
 voting
 vulnerable
 wa
+wage
 wait
 waiting
 walk
@@ -765,7 +766,6 @@ way
 weak
 weekend
 well
-wellbeing
 went
 were
 weve

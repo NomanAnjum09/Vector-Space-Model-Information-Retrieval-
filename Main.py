@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'untitled.ui'
+# Form implementation generated from reading ui file 'Main.ui'
 #
 # Created by: PyQt5 UI code generator 5.9.2
 #
 # WARNING! All changes made in this file will be lost!
 
+from PyQt5 import QtCore, QtGui, QtWidgets
 from nltk.stem import WordNetLemmatizer 
 import math  
 from nltk.stem.porter import *
@@ -16,11 +17,11 @@ Ltoken = []
 Lposting = []
 Lposition = []
 
+
+
+
 class Ui_MainWindow(object):
-
     
-
-
     def generate(self,ref_words,doc_freq,tokens,tf,i):
         n1 = len(ref_words)
         n2 = len(tokens)
@@ -467,19 +468,19 @@ class Ui_MainWindow(object):
     
         return weight
 
-
-
-
-
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(1920, 1080)
+        MainWindow.resize(960, 1080)
+        MainWindow.setMaximumSize(QtCore.QSize(960, 1080))
+        font = QtGui.QFont()
+        font.setPointSize(16)
+        MainWindow.setFont(font)
         MainWindow.setStyleSheet("\n"
 "QWidget\n"
 "{background-image: url(:/images/IR5.png);\n"
 "  background-repeat: no-repeat;\n"
 "  background-size: cover;\n"
-"  width:100%;\n"
+
 "\n"
 "}\n"
 "\n"
@@ -489,7 +490,7 @@ class Ui_MainWindow(object):
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.radioButton = QtWidgets.QRadioButton(self.centralwidget)
-        self.radioButton.setGeometry(QtCore.QRect(310, 410, 251, 21))
+        self.radioButton.setGeometry(QtCore.QRect(30, 480, 309, 26))
         font = QtGui.QFont()
         font.setFamily("URW Gothic [UKWN]")
         font.setPointSize(14)
@@ -500,7 +501,7 @@ class Ui_MainWindow(object):
         self.radioButton.setIconSize(QtCore.QSize(30, 30))
         self.radioButton.setObjectName("radioButton")
         self.radioButton_2 = QtWidgets.QRadioButton(self.centralwidget)
-        self.radioButton_2.setGeometry(QtCore.QRect(310, 450, 191, 21))
+        self.radioButton_2.setGeometry(QtCore.QRect(30, 440, 309, 26))
         font = QtGui.QFont()
         font.setFamily("URW Gothic [UKWN]")
         font.setPointSize(14)
@@ -511,19 +512,22 @@ class Ui_MainWindow(object):
         self.radioButton_2.setIconSize(QtCore.QSize(30, 30))
         self.radioButton_2.setObjectName("radioButton_2")
         self.lineEdit = QtWidgets.QLineEdit(self.centralwidget)
-        self.lineEdit.setGeometry(QtCore.QRect(520, 520, 761, 51))
-        self.lineEdit.setStyleSheet("font-size:16px;")
+        self.lineEdit.setGeometry(QtCore.QRect(10, 610, 691, 51))
+        font = QtGui.QFont()
+        font.setPointSize(16)
+        self.lineEdit.setFont(font)
+        self.lineEdit.setStyleSheet("background:white;")
+        self.lineEdit.setMaxLength(32756)
         self.lineEdit.setObjectName("lineEdit")
         self.toolButton = QtWidgets.QToolButton(self.centralwidget)
-        self.toolButton.setGeometry(QtCore.QRect(820, 600, 231, 51))
+        self.toolButton.setGeometry(QtCore.QRect(260, 680, 161, 51))
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap(":/images/search.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         self.toolButton.setIcon(icon)
         self.toolButton.setIconSize(QtCore.QSize(400, 400))
         self.toolButton.setObjectName("toolButton")
-        self.toolButton.clicked.connect(self.Entertain)
         self.textBrowser = QtWidgets.QTextBrowser(self.centralwidget)
-        self.textBrowser.setGeometry(QtCore.QRect(44, 700, 951, 90))
+        self.textBrowser.setGeometry(QtCore.QRect(10, 830, 891, 121))
         font = QtGui.QFont()
         font.setFamily("URW Gothic L")
         font.setPointSize(16)
@@ -533,9 +537,38 @@ class Ui_MainWindow(object):
         self.textBrowser.setFont(font)
         self.textBrowser.setStyleSheet("background:transparent;")
         self.textBrowser.setObjectName("textBrowser")
+        self.lineEdit_2 = QtWidgets.QLineEdit(self.centralwidget)
+        self.lineEdit_2.setGeometry(QtCore.QRect(730, 610, 171, 51))
+        font = QtGui.QFont()
+        font.setPointSize(16)
+        self.lineEdit_2.setFont(font)
+        self.lineEdit_2.setStyleSheet("background:white;")
+        self.lineEdit_2.setObjectName("lineEdit_2")
+        self.label = QtWidgets.QLabel(self.centralwidget)
+        self.label.setGeometry(QtCore.QRect(40, 550, 261, 41))
+        font = QtGui.QFont()
+        font.setFamily("URW Gothic [UKWN]")
+        font.setPointSize(18)
+        font.setBold(True)
+        font.setItalic(True)
+        font.setWeight(75)
+        self.label.setFont(font)
+        self.label.setStyleSheet("background:transparent;")
+        self.label.setObjectName("label")
+        self.label_2 = QtWidgets.QLabel(self.centralwidget)
+        self.label_2.setGeometry(QtCore.QRect(720, 570, 261, 41))
+        font = QtGui.QFont()
+        font.setFamily("URW Gothic [UKWN]")
+        font.setPointSize(16)
+        font.setBold(True)
+        font.setItalic(True)
+        font.setWeight(75)
+        self.label_2.setFont(font)
+        self.label_2.setStyleSheet("background:transparent;")
+        self.label_2.setObjectName("label_2")
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 1920, 20))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 960, 24))
         self.menubar.setObjectName("menubar")
         MainWindow.setMenuBar(self.menubar)
         self.statusbar = QtWidgets.QStatusBar(MainWindow)
@@ -551,45 +584,16 @@ class Ui_MainWindow(object):
         self.radioButton.setText(_translate("MainWindow", "Use PreProcessed Data"))
         self.radioButton_2.setText(_translate("MainWindow", "Run From Scratch"))
         self.toolButton.setText(_translate("MainWindow", "..."))
-    def Entertain(self):
-        text = self.lineEdit.text()
-        parsed = self.parse_Query(text)
-        if self.radioButton.isChecked():
-            print("Using Preprocessed Data")
-            pass
-        else:
-            print("Running From Scratch")
-            self.tokenizer()
-            self.Processor()
-        print(parsed)
-        results,query_tf,parsed = self.process_Query(parsed)
+        self.label.setText(_translate("MainWindow", "Enter Query Here"))
+        self.label_2.setText(_translate("MainWindow", "Enter Cutoff Here"))
 
-        for i in range(len(results)-1,-1,-1):
-            if(results[i]==-1):
-                parsed.pop(i)
-                results.pop(i)
-                query_tf.pop(i)
 
-        result = self.fetch_docs(parsed,query_tf,results)
-        docs = []
-        for i in range(56):
-            docs.append(i)
-        self.sort_doc(result,docs,0,len(result)-1)
-        ans =[]
-        counter =0
-        for i in range(len(result)):
-            if(result[i]>=0.0005):
-                ans.append("(doc{}-{})".format(docs[i],result[i]))
-                counter+=1
-        ans.reverse()
-        print(counter)
-        print(ans)
-        ans = "Lenght = {}".format(counter)+'\n'+str(ans);
-        self.textBrowser.setText(str(ans))
+
+
 
 
 import resource_rc
-    
+
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)

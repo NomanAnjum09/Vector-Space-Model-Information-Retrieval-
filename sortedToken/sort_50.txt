@@ -3,7 +3,7 @@ $2
 $6
 1
 10
-12year
+12
 13
 15
 18
@@ -27,8 +27,7 @@ accomplish
 achieved
 activity
 administration
-africanamerican
-africanamericans
+african
 after
 again
 air
@@ -165,6 +164,7 @@ endorsement
 energy
 enforcement
 entered
+enters
 establish
 ethic
 even
@@ -184,7 +184,6 @@ finally
 financing
 find
 first
-firstever
 fitter
 five
 fix
@@ -251,11 +250,10 @@ involve
 islamic
 it
 job
-jobandwealth
-jobkilling
 just
 justice
 keep
+killing
 king
 know
 known
@@ -285,8 +283,8 @@ lose
 losevote
 losing
 lost
+low
 lower
-lowincome
 made
 magnificent
 major
@@ -337,15 +335,15 @@ nothing
 november
 now
 oath
+obama
 obamacare
-obamaclinton
 obstructed
+offending
 offer
 officer
 oil
 old
 one
-onethird
 only
 open
 opponent
@@ -360,7 +358,7 @@ package
 part
 partnership
 patrol
-payforplay
+pay
 pennsylvania
 people
 percent
@@ -372,6 +370,7 @@ phone
 pipe
 place
 plan
+play
 police
 poll
 portion
@@ -395,7 +394,7 @@ prosperity
 proven
 provide
 proximity
-publicprivate
+public
 push
 put
 putting
@@ -407,6 +406,7 @@ raped
 raping
 rapist
 rasmussen
+re
 reagan
 real
 rebuild
@@ -415,7 +415,6 @@ rebuilt
 reclaim
 recruiting
 reduce
-reenters
 reform
 refugee
 regulation
@@ -425,7 +424,7 @@ remember
 remove
 renegotiate
 repeal
-repeatoffending
+repeat
 replace
 reported
 require
@@ -517,7 +516,7 @@ their
 them
 there
 thing
-thirdworld
+third
 this
 through
 time
@@ -564,6 +563,7 @@ war
 washington
 water
 way
+wealth
 wealthy
 welder
 well
@@ -587,7 +587,6 @@ world
 worse
 yard
 year
-yearold
 yes
 yet
 you

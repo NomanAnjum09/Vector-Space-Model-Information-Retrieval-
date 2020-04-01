@@ -19,7 +19,6 @@ $873
 2017
 2017we
 21
-21yearold
 25
 25000
 2nd
@@ -39,7 +38,7 @@ $873
 58%
 60
 60%
-64yeard
+64
 70000
 8th
 9/11
@@ -57,8 +56,7 @@ administration
 admitted
 affordable
 afghanistan
-africanamerican
-africanamericans
+african
 after
 again
 age
@@ -99,9 +97,9 @@ arrived
 ask
 assaulted
 asylum
-atrisk
 average
 back
+backed
 ballot
 baltimore
 banana
@@ -218,6 +216,7 @@ coverage
 craziest
 crazy
 create
+creating
 crime
 criminal
 currency
@@ -363,12 +362,11 @@ heartbreaking
 helped
 here
 hide
+high
 higher
 highest
-highlysuccessful
-highrisk
+highly
 hillary
-hillarybacked
 history
 home
 homicide
@@ -420,10 +418,7 @@ january
 japan
 jersey
 job
-jobcreating
-jobkilling
 joblessness
-jobproducing
 joe
 jonathan
 just
@@ -432,6 +427,7 @@ kate
 keep
 killed
 killer
+killing
 know
 known
 korea
@@ -515,7 +511,7 @@ need
 never
 new
 next
-noncitizen
+non
 not
 november
 now
@@ -523,7 +519,6 @@ number
 oath
 obama
 obamacare
-obamaclinton
 obamas
 objection
 occasion
@@ -535,7 +530,6 @@ oil
 olander
 old
 one
-onethird
 only
 open
 or
@@ -640,6 +634,7 @@ right
 ringleader
 riot
 rising
+risk
 ronald
 ronnebeck
 root
@@ -691,11 +686,10 @@ side
 signature
 simple
 since
-singleyear
+single
 six
 small
 so
-socalled
 solution
 some
 sometimes
@@ -720,6 +714,7 @@ student
 stupidity
 subpoena
 subsidy
+successful
 suffer
 suffering
 sum
@@ -755,7 +750,7 @@ these
 they
 theyve
 thing
-thirdworld
+third
 this
 those
 thousand
@@ -851,7 +846,7 @@ worse
 worst
 would
 year
-yearold
+yeard
 yesterday
 york
 you

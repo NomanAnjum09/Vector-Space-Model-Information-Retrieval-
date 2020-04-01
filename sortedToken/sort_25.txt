@@ -38,7 +38,6 @@ airport
 also
 amendment
 america
-americafirst
 american
 among
 amount
@@ -262,7 +261,6 @@ imagine
 immediately
 immigration
 importantly
-inbetween
 inclusive
 income
 increase
@@ -280,12 +278,12 @@ irredeemable
 issued
 it
 job
-jobkilling
 joblessness
 judgement
 just
 justice
 keep
+killing
 known
 korea
 la
@@ -307,7 +305,7 @@ life
 lift
 like
 living
-longterm
+long
 look
 looked
 lost
@@ -364,7 +362,6 @@ official
 ohio
 old
 one
-oneway
 only
 openly
 opportunity
@@ -496,6 +493,7 @@ syria
 take
 taking
 tax
+term
 than
 thank
 that
@@ -549,6 +547,7 @@ walk
 wall
 washington
 water
+way
 wealthy
 went
 were

@@ -17,8 +17,7 @@ adequate
 administration
 adult
 aetna
-africanamerican
-africanamericans
+african
 after
 again
 against
@@ -58,6 +57,7 @@ assault
 attack
 automatically
 back
+backed
 bad
 badly
 beautiful
@@ -120,7 +120,6 @@ city
 class
 classified
 clinton
-clintonbacked
 closely
 closing
 collecting
@@ -189,6 +188,7 @@ did
 difference
 different
 difficult
+digit
 diplomat
 disaster
 discover
@@ -198,7 +198,7 @@ donald
 done
 donor
 dont
-doubledigits
+double
 down
 dreadful
 dream
@@ -323,7 +323,6 @@ high
 highest
 hillary
 hispanic
-hispanicamericans
 holding
 honest
 honesty
@@ -471,7 +470,6 @@ nafta
 narrative
 nation
 national
-nationbuilding
 near
 nearly
 need
@@ -525,14 +523,12 @@ parent
 part
 particularly
 partner
-parttime
 party
 passing
 past
 path
 patience
 pay
-payforplay
 paying
 peaceful
 people
@@ -542,6 +538,7 @@ personnel
 perspective
 place
 plan
+play
 please
 police
 policy
@@ -594,7 +591,6 @@ reason
 rebuilding
 reform
 refugee
-refugeesending
 refuse
 registered
 regret
@@ -646,6 +642,7 @@ seek
 seems
 seen
 send
+sending
 senior
 sent
 serve

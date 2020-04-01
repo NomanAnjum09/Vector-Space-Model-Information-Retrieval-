@@ -30,8 +30,8 @@ against
 aggressive
 agreement
 aipac
+aircraft
 allen
-alltime
 ally
 already
 also
@@ -39,8 +39,7 @@ america
 american
 an
 another
-antiaircraft
-antiship
+anti
 any
 anybody
 anyone
@@ -112,6 +111,7 @@ child
 choice
 citizen
 city
+class
 clear
 clinton
 clock
@@ -123,6 +123,7 @@ community
 complete
 concern
 concerned
+condition
 conference
 confront
 constantly
@@ -211,6 +212,7 @@ father
 few
 final
 financing
+fired
 firefighter
 first
 five
@@ -294,7 +296,7 @@ incitement
 including
 incompetence
 incredible
-industrialsized
+industrial
 intended
 intimidate
 iran
@@ -321,7 +323,7 @@ keep
 kerry
 kid
 kind
-knifewielding
+knife
 know
 knowing
 known
@@ -444,8 +446,8 @@ population
 power
 powerful
 practiced
+pre
 precisely
-precondition
 preposterous
 president
 pressure
@@ -497,7 +499,7 @@ saudi
 saw
 say
 saying
-secondclass
+second
 secondly
 secretary
 security
@@ -509,6 +511,7 @@ sent
 seriously
 served
 she
+ship
 shocking
 should
 show
@@ -521,6 +524,7 @@ since
 single
 sit
 situation
+sized
 so
 society
 solidarity
@@ -572,7 +576,6 @@ terror
 terrorism
 terrorist
 test
-testfired
 testing
 textbook
 than
@@ -655,6 +658,7 @@ which
 who
 whole
 why
+wielding
 will
 willing
 wiped

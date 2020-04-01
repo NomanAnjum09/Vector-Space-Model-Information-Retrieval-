@@ -1,4 +1,4 @@
-18month
+18
 200
 22
 45th
@@ -106,6 +106,7 @@ easy
 economic
 economy
 eight
+elect
 election
 elizabeth
 embark
@@ -163,9 +164,7 @@ guidance
 guy
 happen
 hard
-hardestworking
-hardfought
-hardworking
+hardest
 harness
 he
 help
@@ -242,6 +241,7 @@ men
 mike
 million
 moment
+month
 movement
 much
 must
@@ -283,7 +283,6 @@ politician
 possibly
 potential
 president
-presidentelect
 priebus
 project
 proud
@@ -393,7 +392,6 @@ truly
 trump
 tunnel
 two
-twoyear
 u
 unbelievable
 unify

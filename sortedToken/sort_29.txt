@@ -26,7 +26,7 @@ additional
 adequate
 admit
 admitting
-africanamerican
+african
 after
 again
 against
@@ -63,6 +63,7 @@ because
 become
 been
 before
+believer
 beneath
 bernardino
 best
@@ -91,6 +92,7 @@ center
 century
 change
 chicago
+chief
 child
 china
 choice
@@ -106,7 +108,7 @@ cloud
 come
 comfort
 coming
-commanderinchief
+commander
 comment
 common
 commonplace
@@ -223,7 +225,7 @@ genocide
 get
 god
 going
-goodpaying
+good
 government
 granted
 great
@@ -280,10 +282,10 @@ j
 january
 jersey
 job
-jobkilling
 judgement
 just
 justice
+killing
 know
 korea
 korean
@@ -341,7 +343,7 @@ never
 new
 news
 next
-nonbeliever
+non
 north
 not
 november
@@ -369,11 +371,13 @@ our
 out
 over
 overseas
+pacific
 part
 partnership
 past
 patriotic
 patrol
+paying
 penalty
 pending
 people
@@ -413,6 +417,7 @@ refusing
 regime
 region
 regulation
+related
 released
 religion
 remark
@@ -502,7 +507,6 @@ terrible
 terror
 terrorism
 terrorist
-terroristrelated
 than
 thank
 that
@@ -528,7 +532,7 @@ torturing
 total
 tougher
 trade
-transpacific
+trans
 trapped
 travel
 truly

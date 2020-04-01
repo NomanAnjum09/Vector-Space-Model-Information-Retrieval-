@@ -17,8 +17,7 @@ accountant
 across
 admiral
 affordable
-africanamerican
-africanamericans
+african
 after
 afternoon
 again
@@ -210,7 +209,6 @@ highway
 hillary
 hired
 hispanic
-hispanicamericans
 home
 honor
 honored
@@ -247,10 +245,10 @@ itself
 ive
 james
 job
-jobkilling
 just
 justice
 keep
+killing
 knight
 know
 l
@@ -320,7 +318,6 @@ officer
 old
 oldest
 one
-onesided
 only
 opponent
 opportunity
@@ -391,7 +388,7 @@ remove
 renegotiate
 repeal
 replace
-resourcerich
+resource
 responsibility
 restriction
 result
@@ -428,6 +425,7 @@ shes
 ship
 shore
 shot
+sided
 since
 single
 sky

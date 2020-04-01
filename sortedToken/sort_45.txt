@@ -21,7 +21,6 @@ $800
 able
 about
 abuse
-abusedeterring
 access
 accomplish
 accountability
@@ -69,6 +68,7 @@ authorized
 average
 away
 back
+backed
 background
 bangor
 bank
@@ -92,6 +92,7 @@ business
 but
 by
 c
+called
 campaign
 cap
 care
@@ -144,7 +145,7 @@ couple
 coupled
 court
 courtney
-coverup
+cover
 crack
 created
 credit
@@ -162,7 +163,7 @@ deal
 dealer
 death
 decade
-decisiontime
+decision
 defend
 deficit
 deleted
@@ -172,6 +173,7 @@ depleted
 deportation
 depression
 destroy
+deterring
 died
 dilapidated
 directly
@@ -186,7 +188,7 @@ dollar
 donor
 dont
 door
-doublingdown
+doubling
 down
 dramatically
 dream
@@ -237,7 +239,6 @@ fiatchrysler
 fight
 finally
 first
-firstever
 fix
 fixing
 flag
@@ -280,7 +281,6 @@ heroin
 high
 highest
 hillary
-hillarybacked
 history
 honor
 hope
@@ -295,7 +295,6 @@ ii
 illegal
 imagine
 immigrant
-immigrantsregardless
 immigration
 important
 incentive
@@ -334,7 +333,6 @@ liberty
 lie
 lied
 life
-lifethreatening
 lift
 like
 limiting
@@ -402,7 +400,6 @@ number
 oath
 obama
 obamacare
-obamaclinton
 obstruct
 off
 offender
@@ -494,6 +491,7 @@ record
 recovery
 reduce
 refuse
+regardless
 regulation
 released
 religious
@@ -560,7 +558,6 @@ since
 slot
 slow
 so
-socalled
 sold
 solve
 some
@@ -615,6 +612,7 @@ this
 those
 thought
 thousand
+threatening
 through
 tie
 time

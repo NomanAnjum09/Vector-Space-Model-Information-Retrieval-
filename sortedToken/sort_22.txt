@@ -15,7 +15,7 @@ address
 administration
 advance
 afghanistan
-africanamerican
+african
 after
 again
 against
@@ -35,6 +35,7 @@ answer
 apologized
 applying
 arrogance
+art
 ashenhurst
 assist
 association
@@ -138,10 +139,11 @@ displayed
 disqualifies
 divide
 doesnt
+dollar
 done
 donor
 dont
-doubleddown
+doubled
 down
 drive
 duty
@@ -231,7 +233,7 @@ hero
 herself
 hide
 hiding
-highdollar
+high
 hillary
 hired
 hispanic
@@ -308,7 +310,6 @@ low
 loyal
 made
 major
-majorparty
 make
 manager
 many
@@ -363,6 +364,7 @@ page
 paint
 paramedic
 part
+party
 past
 path
 patriotic
@@ -472,7 +474,6 @@ spent
 spoke
 spoken
 state
-stateoftheart
 still
 stray
 street
@@ -521,7 +522,7 @@ true
 trump
 turn
 u
-unamerican
+un
 under
 unfairness
 uniform

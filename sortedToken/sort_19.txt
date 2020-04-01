@@ -48,7 +48,6 @@ advantage
 adventure
 afflicts
 african
-africanamerican
 after
 aftermath
 again
@@ -61,7 +60,6 @@ ai
 aiming
 allow
 allowed
-alltime
 ally
 almost
 already
@@ -79,7 +77,7 @@ annual
 another
 answer
 answered
-antipoverty
+anti
 antonin
 any
 anybody
@@ -317,6 +315,7 @@ everyone
 everything
 evil
 example
+exempt
 experience
 express
 extent
@@ -331,12 +330,14 @@ faith
 fallen
 family
 far
+fashioned
 fast
 fbi
 federal
 federalist
 feeling
 fellow
+fest
 few
 fifth
 fight
@@ -362,7 +363,6 @@ forum
 forward
 fought
 four
-fourandfour
 fourth
 franklin
 frankly
@@ -399,7 +399,6 @@ goodbye
 got
 gotten
 government
-governmentrun
 graham
 grant
 great
@@ -413,9 +412,11 @@ hacked
 halt
 hammer
 hand
+handedly
 happen
 happened
 happening
+happy
 hard
 harder
 hate
@@ -443,7 +444,7 @@ him
 hispanic
 history
 hit
-homeschool
+home
 honest
 honestly
 hope
@@ -482,7 +483,6 @@ includes
 including
 incredible
 inner
-innercity
 instance
 integrity
 interest
@@ -501,7 +501,6 @@ itll
 ive
 jeer
 job
-jobkilling
 joblessness
 john
 johnson
@@ -515,6 +514,7 @@ just
 justice
 keep
 kept
+killing
 kiss
 knew
 knock
@@ -550,7 +550,6 @@ living
 local
 long
 longer
-longterm
 look
 looked
 looking
@@ -562,7 +561,6 @@ louis
 louisiana
 love
 loved
-lovefest
 lower
 lyndon
 macarthur
@@ -591,7 +589,6 @@ middle
 migration
 military
 million
-millionplus
 mind
 mine
 minister
@@ -636,10 +633,8 @@ often
 oh
 ok
 old
-oldfashioned
 omni
 one
-oneway
 only
 onto
 open
@@ -687,6 +682,7 @@ plane
 play
 pledged
 plenty
+plus
 policy
 political
 politician
@@ -761,7 +757,7 @@ receiving
 recently
 recognize
 recommended
-recordsetting
+record
 recovered
 reform
 refugee
@@ -832,6 +828,8 @@ sending
 sense
 serious
 service
+setting
+seven
 she
 shell
 shes
@@ -847,7 +845,6 @@ simple
 simply
 since
 single
-singlehandedly
 sir
 sister
 sitting
@@ -906,12 +903,12 @@ talk
 talked
 talking
 tax
-taxexempt
 teaching
 tell
 telling
 ten
 tenure
+term
 terminate
 terrible
 terror
@@ -956,7 +953,7 @@ trail
 trapped
 treat
 tremendous
-triggerhappy
+trigger
 trip
 trojan
 troop
@@ -967,9 +964,8 @@ trump
 trying
 turn
 turned
-twentyseven
+twenty
 two
-twoway
 u
 ultimate
 unable
@@ -982,7 +978,7 @@ unemployment
 unfit
 unfortunately
 unhappy
-unheardof
+unheard
 uniform
 unite
 united

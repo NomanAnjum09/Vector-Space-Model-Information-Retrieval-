@@ -13,9 +13,9 @@ $1
 272
 28
 3
-3d
 4
 500
+52s
 abandoned
 ability
 about
@@ -81,7 +81,7 @@ attack
 attacked
 awake
 away
-b52s
+b
 back
 badly
 balance
@@ -117,7 +117,7 @@ bound
 bow
 brag
 brave
-breakup
+break
 briefly
 bring
 brotherhood
@@ -160,7 +160,6 @@ civilian
 civilization
 clarity
 clear
-clearsighted
 clinton
 close
 closely
@@ -206,6 +205,7 @@ cyber
 cyberwarfare
 cycle
 czech
+d
 dangerous
 day
 dc
@@ -498,7 +498,6 @@ logic
 long
 longer
 longstanding
-longterm
 look
 lose
 losing
@@ -555,8 +554,6 @@ nafta
 name
 nation
 national
-nationbuilding
-nationstate
 nato
 navy
 nazi
@@ -576,7 +573,6 @@ now
 nuclear
 numbered
 obama
-obamaclinton
 obamas
 obligation
 oclock
@@ -786,6 +782,7 @@ should
 shrunk
 side
 sight
+sighted
 sign
 simple
 simply
@@ -905,7 +902,6 @@ true
 trump
 trying
 two
-twoway
 u
 ultimate
 under

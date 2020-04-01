@@ -27,7 +27,7 @@ accountant
 action
 add
 affordable
-africanamerican
+african
 after
 again
 age
@@ -58,6 +58,7 @@ average
 back
 backbone
 baltimore
+based
 become
 been
 before
@@ -75,7 +76,6 @@ bleached
 boost
 bottom
 break
-breakup
 bridge
 bring
 build
@@ -123,7 +123,7 @@ contrast
 control
 convene
 cop
-cornbased
+corn
 corrupt
 cost
 could
@@ -149,7 +149,7 @@ depleted
 deplorable
 derision
 designed
-desperatelyneeded
+desperately
 destroyed
 destruction
 disadvantaged
@@ -161,8 +161,8 @@ doing
 dollar
 donald
 dont
+double
 doubled
-doubletaxation
 down
 dragged
 drug
@@ -317,7 +317,6 @@ ive
 j
 january
 job
-jobkilling
 jonathan
 joy
 judgement
@@ -325,6 +324,7 @@ just
 justice
 keep
 killer
+killing
 know
 labor
 lack
@@ -378,6 +378,7 @@ national
 nato
 nearly
 need
+needed
 needle
 neglected
 negotiate
@@ -395,7 +396,6 @@ office
 officefrom
 old
 one
-oneway
 only
 opponent
 opportunity
@@ -414,15 +414,14 @@ past
 patriot
 patrol
 pay
-payforplay
 people
 percent
 phone
 plan
 plane
+play
 pleading
 policy
-policyfree
 poor
 posted
 pouring
@@ -565,6 +564,7 @@ take
 taking
 talked
 tax
+taxation
 temperament
 term
 terrorism

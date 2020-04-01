@@ -4,7 +4,8 @@ $2
 $21
 10
 100
-11212
+112
+12
 14
 147000
 17
@@ -177,8 +178,9 @@ cutting
 d
 day
 deal
-deathdefying
+death
 decision
+defying
 delegate
 deliver
 demonstration
@@ -211,6 +213,7 @@ drained
 duke
 dwight
 dying
+e
 easily
 east
 easy
@@ -220,7 +223,6 @@ eisenhower
 elected
 else
 em
-email
 embodiment
 enacted
 end
@@ -243,6 +245,7 @@ everybody
 everything
 exactly
 executive
+exempt
 expected
 experience
 explained
@@ -386,7 +389,6 @@ job
 johnson
 just
 k
-k12
 karen
 keep
 kept
@@ -427,10 +429,12 @@ loss
 lost
 lot
 love
+lowest
 loyal
 lyndon
 made
 magazine
+mail
 maintains
 major
 make
@@ -483,15 +487,13 @@ nixon
 nobody
 nomination
 nominee
-nonendorsement
+non
 not
 november
 now
 nuclear
 number
-numberone
 obama
-obamaclinton
 obstacle
 odds
 off
@@ -515,7 +517,6 @@ outside
 outsider
 outstanding
 over
-oversay
 owe
 owned
 paid
@@ -532,7 +533,6 @@ pences
 pennsylvania
 penny
 people
-peopleand
 percent
 perfect
 period
@@ -624,7 +624,6 @@ school
 scotland
 screaming
 second
-secondlowest
 sector
 see
 seeing
@@ -697,7 +696,6 @@ talked
 talking
 tax
 taxed
-taxexempt
 ted
 tell
 telling
@@ -719,7 +717,7 @@ theyve
 thing
 think
 thinking
-thirtythree
+thirty
 this
 those
 though
@@ -741,7 +739,7 @@ trade
 tremendous
 tried
 trillion
-triplea
+triple
 truck
 truly
 trump

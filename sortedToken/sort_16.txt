@@ -33,8 +33,7 @@ admiral
 adventurism
 advising
 afghanistan
-africanamerican
-africanamericans
+african
 after
 afternoon
 again
@@ -109,7 +108,7 @@ center
 chance
 change
 chicago
-chiefofstaff
+chief
 child
 china
 choice
@@ -145,7 +144,7 @@ could
 couldnt
 country
 cover
-coveredup
+covered
 create
 created
 creating
@@ -154,7 +153,7 @@ criminal
 crisis
 crucially
 current
-cybersecurity
+cyber
 d
 damage
 dangerous
@@ -283,7 +282,7 @@ guided
 guy
 hacker
 haiti
-haitianamerican
+haitian
 hammer
 hand
 handling
@@ -333,6 +332,7 @@ intereststhis
 international
 into
 invade
+invest
 investment
 inviting
 involved
@@ -343,14 +343,13 @@ it
 j
 jackson
 job
-jobkilling
 joblessness
 john
 join
 just
-justreleased
 keep
 key
+killing
 know
 knowingly
 korean
@@ -375,11 +374,10 @@ lifting
 like
 lincoln
 long
-longterm
 lose
 love
+low
 lowering
-lowlevel
 made
 make
 many
@@ -461,7 +459,7 @@ passage
 passed
 past
 pave
-payforplay
+pay
 peace
 people
 percent
@@ -469,6 +467,7 @@ phone
 place
 plan
 platform
+play
 playing
 pleading
 poisoning
@@ -500,6 +499,7 @@ raided
 raiding
 rally
 ratified
+re
 read
 real
 rebuild
@@ -512,7 +512,6 @@ refused
 region
 regional
 regulation
-reinvest
 related
 released
 relying
@@ -626,6 +625,7 @@ take
 taught
 tax
 tell
+term
 terrorism
 terrorist
 than

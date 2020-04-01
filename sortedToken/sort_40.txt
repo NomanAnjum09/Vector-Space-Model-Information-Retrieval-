@@ -15,7 +15,6 @@ $800
 200000
 2017we
 21
-21yearold
 22nd
 25
 2nd
@@ -36,7 +35,7 @@ $800
 6
 60
 60%
-64years
+64
 70000
 8th
 9/11
@@ -51,8 +50,7 @@ administration
 admitted
 affordable
 afghanistan
-africanamerican
-africanamericans
+african
 after
 again
 age
@@ -96,6 +94,7 @@ assaulted
 asylum
 average
 back
+backed
 backer
 ballot
 baltimore
@@ -317,6 +316,7 @@ free
 friend
 from
 fund
+funded
 gang
 general
 get
@@ -350,11 +350,9 @@ help
 henderson
 here
 herself
+high
 higher
-highpaying
-highrisk
 hillary
-hillarybacked
 history
 home
 homicide
@@ -378,6 +376,7 @@ implicated
 important
 includes
 including
+income
 increase
 increased
 incredible
@@ -387,7 +386,6 @@ inflow
 infrastructure
 infusion
 inner
-inperson
 inside
 insider
 instantly
@@ -404,7 +402,6 @@ jamiel
 japan
 jersey
 job
-jobkilling
 joblessness
 judgement
 just
@@ -413,6 +410,7 @@ kate
 keep
 killed
 killer
+killing
 korea
 ladder
 laid
@@ -444,8 +442,8 @@ loaded
 look
 lose
 lost
+low
 lower
-lowincome
 made
 magnet
 magnificent
@@ -509,7 +507,6 @@ numbered
 oath
 obama
 obamacare
-obamaclinton
 obamas
 occasion
 october
@@ -519,8 +516,6 @@ often
 olander
 old
 one
-onesided
-onethird
 online
 only
 open
@@ -537,6 +532,7 @@ over
 overseas
 owe
 own
+pacific
 part
 partnership
 party
@@ -550,6 +546,7 @@ peace
 people
 percent
 perpetrator
+person
 petty
 pharis
 plan
@@ -630,6 +627,7 @@ righteous
 ringleader
 riot
 rising
+risk
 ronald
 ronnebeck
 root
@@ -676,16 +674,15 @@ shot
 show
 shut
 side
+sided
 signature
 simple
 since
 single
-singleyear
 sixty
 skyscraper
 small
 so
-socalled
 solution
 some
 sometimes
@@ -693,6 +690,7 @@ son
 soon
 special
 stabbing
+staffed
 staffer
 staggering
 stand
@@ -746,7 +744,7 @@ these
 they
 theyve
 thing
-thirdworld
+third
 this
 those
 thousand
@@ -760,7 +758,7 @@ took
 top
 torched
 trade
-transpacific
+trans
 trapped
 trillion
 troop
@@ -771,10 +769,7 @@ turnaround
 two
 u
 under
-underfunded
-understaffed
 understand
-undersupported
 unfit
 united
 unleashed
@@ -838,7 +833,6 @@ worse
 worst
 would
 year
-yearold
 york
 you
 your

@@ -26,8 +26,7 @@ accomplish
 accusses
 across
 advisory
-africanamerican
-africanamericans
+african
 after
 again
 against
@@ -42,7 +41,7 @@ america
 american
 an
 another
-antipolice
+anti
 anyone
 anything
 appoint
@@ -79,7 +78,7 @@ bleached
 board
 border
 break
-breakingup
+breaking
 bridge
 bring
 business
@@ -270,7 +269,6 @@ highway
 hillary
 hired
 hispanic
-hispanicamerican
 homicide
 honesty
 hospital
@@ -417,11 +415,11 @@ political
 poll
 poor
 post
-postdebate
 potential
 pound
 poverty
 power
+predator
 prejudiced
 president
 preventable
@@ -445,6 +443,7 @@ reckoning
 reduce
 reducing
 regulation
+related
 remark
 remember
 rendered
@@ -498,7 +497,7 @@ shut
 silence
 simple
 since
-singleyear
+single
 six
 size
 sky
@@ -540,7 +539,7 @@ such
 suffering
 suggesting
 summed
-superpredators
+super
 supply
 support
 supporter
@@ -589,7 +588,8 @@ try
 trying
 tunnel
 turning
-twentytwo
+twenty
+two
 u
 under
 understood
@@ -641,9 +641,9 @@ wisconsin
 with
 woman
 word
+work
 worker
 working
-workrelated
 world
 write
 year

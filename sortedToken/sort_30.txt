@@ -13,6 +13,7 @@ $70
 70
 8th
 95%
+abiding
 able
 about
 abuse
@@ -28,8 +29,7 @@ administrator
 adult
 afflicting
 affordable
-africanamerican
-africanamericans
+african
 again
 against
 agenda
@@ -65,7 +65,6 @@ before
 begin
 believer
 best
-bestlaid
 better
 between
 beyond
@@ -82,7 +81,7 @@ border
 both
 brand
 break
-breakingup
+breaking
 bridge
 bring
 brink
@@ -106,6 +105,7 @@ chaos
 charter
 chester
 chicago
+chief
 child
 childcare
 china
@@ -113,6 +113,7 @@ choice
 citizen
 city
 civilization
+class
 clinton
 close
 cloud
@@ -122,7 +123,7 @@ collusion
 com
 come
 coming
-commanderinchief
+commander
 commerce
 community
 company
@@ -236,16 +237,17 @@ fighting
 find
 finish
 first
-firstclass
 fixing
 flag
 flint
-floodravaged
+flood
 flowing
 force
 foreign
 forgotten
-fouryear
+four
+fourth
+free
 friday
 friend
 from
@@ -260,9 +262,7 @@ go
 god
 going
 good
-goodpaying
 government
-governmentrun
 granting
 gratitude
 great
@@ -272,7 +272,7 @@ half
 hand
 happen
 happened
-hardhit
+hard
 harvested
 healthcare
 hear
@@ -285,6 +285,7 @@ highway
 hillary
 hired
 history
+hit
 home
 homeschooling
 hospital
@@ -344,7 +345,6 @@ large
 last
 latino
 law
-lawabiding
 lawful
 leader
 learn
@@ -367,8 +367,8 @@ lot
 louisiana
 love
 loved
+low
 lower
-lowincome
 made
 magnet
 magnificent
@@ -403,7 +403,7 @@ most
 mother
 movement
 much
-multibillion
+multi
 must
 my
 nafta
@@ -434,8 +434,6 @@ office
 oil
 old
 one
-onefourth
-onethird
 only
 onto
 opioid
@@ -460,6 +458,7 @@ patriotic
 patrol
 pavement
 pay
+paying
 peace
 peaceful
 peddling
@@ -513,6 +512,7 @@ raise
 rally
 rasmussen
 rate
+ravaged
 reason
 rebuild
 red
@@ -648,7 +648,6 @@ talk
 talked
 tape
 tax
-taxfree
 technical
 technology
 tell
@@ -670,6 +669,7 @@ they
 theyre
 thing
 thinking
+third
 this
 those
 thousand

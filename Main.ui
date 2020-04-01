@@ -6,9 +6,20 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1920</width>
+    <width>960</width>
     <height>1080</height>
    </rect>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>960</width>
+    <height>1080</height>
+   </size>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>16</pointsize>
+   </font>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
@@ -31,10 +42,10 @@ backgound:transparent;
    <widget class="QRadioButton" name="radioButton">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>410</y>
-      <width>251</width>
-      <height>21</height>
+      <x>30</x>
+      <y>480</y>
+      <width>309</width>
+      <height>26</height>
      </rect>
     </property>
     <property name="font">
@@ -59,10 +70,10 @@ backgound:transparent;
    <widget class="QRadioButton" name="radioButton_2">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>450</y>
-      <width>191</width>
-      <height>21</height>
+      <x>30</x>
+      <y>440</y>
+      <width>309</width>
+      <height>26</height>
      </rect>
     </property>
     <property name="font">
@@ -87,22 +98,30 @@ backgound:transparent;
    <widget class="QLineEdit" name="lineEdit">
     <property name="geometry">
      <rect>
-      <x>520</x>
-      <y>520</y>
-      <width>761</width>
+      <x>10</x>
+      <y>610</y>
+      <width>691</width>
       <height>51</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
     <property name="styleSheet">
-     <string notr="true">;</string>
+     <string notr="true">background:white;</string>
+    </property>
+    <property name="maxLength">
+     <number>32756</number>
     </property>
    </widget>
    <widget class="QToolButton" name="toolButton">
     <property name="geometry">
      <rect>
-      <x>820</x>
-      <y>600</y>
-      <width>231</width>
+      <x>260</x>
+      <y>680</y>
+      <width>161</width>
       <height>51</height>
      </rect>
     </property>
@@ -123,9 +142,9 @@ backgound:transparent;
    <widget class="QTextBrowser" name="textBrowser">
     <property name="geometry">
      <rect>
-      <x>440</x>
-      <y>700</y>
-      <width>951</width>
+      <x>10</x>
+      <y>830</y>
+      <width>891</width>
       <height>121</height>
      </rect>
     </property>
@@ -142,14 +161,82 @@ backgound:transparent;
      <string notr="true">background:transparent;</string>
     </property>
    </widget>
+   <widget class="QLineEdit" name="lineEdit_2">
+    <property name="geometry">
+     <rect>
+      <x>730</x>
+      <y>610</y>
+      <width>171</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background:white;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>550</y>
+      <width>261</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>URW Gothic [UKWN]</family>
+      <pointsize>18</pointsize>
+      <weight>75</weight>
+      <italic>true</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background:transparent;</string>
+    </property>
+    <property name="text">
+     <string>Enter Query Here</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>570</y>
+      <width>261</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>URW Gothic [UKWN]</family>
+      <pointsize>16</pointsize>
+      <weight>75</weight>
+      <italic>true</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background:transparent;</string>
+    </property>
+    <property name="text">
+     <string>Enter Cutoff Here</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1920</width>
-     <height>20</height>
+     <width>960</width>
+     <height>24</height>
     </rect>
    </property>
   </widget>

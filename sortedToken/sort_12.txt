@@ -63,7 +63,6 @@ action
 address
 administration
 african
-africanamerican
 after
 again
 against
@@ -119,7 +118,6 @@ booked
 border
 boston
 bought
-boughtandpaidfor
 breach
 bribed
 bribery
@@ -143,7 +141,7 @@ carry
 cartel
 case
 cash
-catchandrelease
+catch
 census
 certainly
 changeit
@@ -194,7 +192,6 @@ corruption
 could
 country
 cover
-coverup
 create
 created
 creates
@@ -240,6 +237,7 @@ donor
 dont
 down
 during
+e
 easily
 east
 economic
@@ -266,11 +264,11 @@ especially
 even
 every
 everyone
+ex
 executive
 exemption
 expect
 exponentially
-expresident
 facility
 fact
 factsthe
@@ -310,17 +308,17 @@ globalism
 go
 going
 good
-goodpaying
 got
 government
 great
 grew
 group
 grown
+growth
 gut
 hacked
 half
-handinhand
+hand
 happen
 happens
 hear
@@ -374,7 +372,6 @@ ive
 j
 jail
 job
-jobkilling
 joined
 judge
 june
@@ -383,6 +380,7 @@ justice
 keep
 kid
 killed
+killing
 know
 known
 labor
@@ -412,10 +410,10 @@ living
 loan
 log
 long
-longrun
 look
 lose
 luedecke
+mail
 make
 many
 marked
@@ -426,7 +424,7 @@ medical
 medium
 meet
 merged
-meritpay
+merit
 message
 met
 metric
@@ -489,7 +487,8 @@ paid
 parent
 participation
 past
-payforplay
+pay
+paying
 peace
 penalty
 people
@@ -500,6 +499,7 @@ perjury
 phone
 plaguing
 plan
+play
 plunged
 police
 policy
@@ -511,12 +511,10 @@ pray
 president
 principle
 private
-profamily
+pro
 profit
 profitable
 program
-progrowth
-projobs
 promote
 prosecutor
 prosperous
@@ -541,7 +539,9 @@ reduction
 refugee
 regulation
 reject
+related
 relates
+release
 released
 remark
 removal
@@ -562,6 +562,7 @@ right
 rising
 role
 rose
+run
 russia
 s
 safe
@@ -734,7 +735,6 @@ without
 wonderful
 word
 work
-workrelated
 world
 worthy
 would

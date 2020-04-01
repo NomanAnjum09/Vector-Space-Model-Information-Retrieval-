@@ -21,8 +21,7 @@ accomplish
 across
 administration
 affordable
-africanamerican
-africanamericans
+african
 after
 again
 against
@@ -47,6 +46,7 @@ asked
 attend
 away
 back
+backed
 backer
 beat
 beautiful
@@ -66,7 +66,7 @@ bleached
 bold
 border
 break
-breakingup
+breaking
 bridge
 bright
 bring
@@ -229,7 +229,6 @@ heroin
 herself
 highway
 hillary
-hillarybacked
 hired
 hispanic
 homicide
@@ -260,12 +259,12 @@ it
 ive
 january
 job
-jobkilling
 journey
 just
 justice
 keep
 keeping
+killing
 knock
 know
 known
@@ -341,6 +340,7 @@ outsider
 oval
 over
 overdoses
+pacific
 paid
 pain
 parent
@@ -366,6 +366,7 @@ politics
 pound
 pouring
 power
+predator
 president
 promise
 prosperity
@@ -383,6 +384,7 @@ reason
 rebuild
 received
 regulation
+related
 remark
 removed
 renegotiated
@@ -436,7 +438,7 @@ signed
 silence
 simple
 since
-singleyear
+single
 sitting
 sky
 skyscraper
@@ -472,7 +474,7 @@ studentsall
 subpoena
 suffered
 summed
-superpredators
+super
 support
 supported
 supreme
@@ -506,7 +508,7 @@ together
 too
 trade
 tragically
-transpacific
+trans
 travel
 treated
 trillion
@@ -516,7 +518,8 @@ trump
 trying
 tunnel
 turning
-twentytwo
+twenty
+two
 u
 under
 understood
@@ -568,7 +571,6 @@ word
 work
 worker
 working
-workrelated
 world
 would
 wrong

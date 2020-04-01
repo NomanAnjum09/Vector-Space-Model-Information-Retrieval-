@@ -2,13 +2,15 @@ $1
 $120000
 $150
 $20
+11
 12
 15
 16
-16to28yearolds
-1993ten
+1993
+1b
 25
 26
+28
 3
 32
 33000
@@ -26,7 +28,6 @@ absentee
 access
 according
 accountable
-accountableincluding
 accusation
 accused
 across
@@ -40,7 +41,7 @@ administrator
 affecting
 afford
 affordable
-africanamericans
+african
 after
 again
 against
@@ -60,7 +61,7 @@ around
 article
 asked
 assault
-assistancewhile
+assistance
 attack
 attend
 auto
@@ -69,6 +70,7 @@ back
 background
 ballot
 bank
+based
 beaten
 been
 before
@@ -76,6 +78,7 @@ begun
 being
 benefit
 benghazi
+besieged
 biggest
 billion
 blaming
@@ -86,7 +89,7 @@ border
 borrower
 brave
 brink
-budgetto
+budget
 bureaucrat
 but
 by
@@ -111,8 +114,6 @@ claim
 clinton
 collaborate
 college
-collegeeducated
-collegetrained
 columbus
 community
 company
@@ -132,7 +133,7 @@ cost
 country
 create
 credit
-crimebesieged
+crime
 criminal
 crisis
 currently
@@ -171,7 +172,7 @@ during
 earlier
 economic
 economy
-economystartups
+educated
 education
 election
 email
@@ -192,6 +193,7 @@ estimated
 every
 everyone
 evidence
+exempt
 expand
 expect
 extreme
@@ -220,7 +222,6 @@ foster
 fostered
 foundation
 four
-fouryear
 france
 free
 friend
@@ -249,7 +250,7 @@ grieving
 grow
 guaranteeing
 gutter
-h1b
+h
 hammer
 happen
 happy
@@ -260,7 +261,7 @@ held
 here
 higher
 hillary
-hispanicamericans
+hispanic
 hold
 home
 honest
@@ -283,8 +284,7 @@ impoverished
 improvement
 includes
 including
-income12
-incomebased
+income
 increase
 increased
 information
@@ -321,11 +321,10 @@ life
 lifetime
 like
 loan
-loansmore
 lot
+low
 lower
 lowering
-lowwage
 machine
 magnet
 mail
@@ -369,6 +368,7 @@ number
 obama
 off
 ohio
+old
 one
 only
 open
@@ -505,6 +505,7 @@ spends
 spirited
 start
 starting
+startup
 state
 step
 stop
@@ -519,7 +520,6 @@ take
 taken
 talk
 tax
-taxexempt
 taxpayer
 ten
 tenured
@@ -543,17 +543,17 @@ today
 together
 trade
 traditional
+trained
 transformed
 trapped
 treatment
 tremendous
 trillion
-trilliondollar
 trump
 trying
 tuition
 u
-uberthat
+uber
 under
 united
 university
@@ -583,6 +583,7 @@ weve
 when
 where
 whether
+while
 who
 whove
 why
@@ -600,8 +601,6 @@ worker
 worried
 would
 year
-year11
-yearold
 yet
 york
 you

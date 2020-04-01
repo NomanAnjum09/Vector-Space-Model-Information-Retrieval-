@@ -28,7 +28,6 @@ $7
 4
 40
 47
-4740
 5
 5000
 550
@@ -297,6 +296,7 @@ decided
 defend
 deficit
 deflection
+defying
 delay
 delayed
 delete
@@ -364,9 +364,7 @@ either
 elected
 electeddonald
 election
-electiondefying
 else
-email
 employment
 end
 enemy
@@ -787,7 +785,6 @@ obsolete
 occasion
 off
 officer
-offmike
 often
 oh
 ohio
@@ -1320,7 +1317,6 @@ wow
 wrong
 yeah
 year
-yearanda
 yellow
 yes
 yesquestion

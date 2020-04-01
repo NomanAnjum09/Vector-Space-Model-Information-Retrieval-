@@ -100,7 +100,6 @@ could
 couldnt
 country
 cover
-coverup
 crime
 criminal
 cut
@@ -133,6 +132,7 @@ donor
 dont
 during
 dying
+e
 earthquake
 economy
 election
@@ -242,6 +242,7 @@ long
 look
 lost
 machine
+mail
 make
 matthew
 may

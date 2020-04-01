@@ -8,7 +8,7 @@
 4
 45%
 5
-7point
+7
 8th
 abandoned
 able
@@ -22,7 +22,7 @@ achieve
 administration
 admiral
 advisor
-africanamerican
+african
 after
 afternoon
 again
@@ -49,6 +49,7 @@ attacksto
 available
 away
 back
+backed
 baltimore
 basket
 been
@@ -152,6 +153,7 @@ disastrous
 dismissed
 disqualifying
 doctor
+dollar
 donald
 donaldjtrump
 donor
@@ -194,6 +196,7 @@ federal
 feel
 fifty
 fight
+filled
 finally
 firefighter
 first
@@ -226,7 +229,6 @@ hand
 hard
 hardworking
 hate
-hatefilled
 hatred
 having
 head
@@ -237,10 +239,9 @@ hero
 herself
 hide
 hiding
-highdollar
+high
 higher
 hillary
-hillarybacked
 history
 hit
 home
@@ -279,12 +280,12 @@ ive
 j
 james
 job
-jobkilling
 joined
 just
 justice
 keep
 kid
+killing
 know
 laid
 last
@@ -308,8 +309,8 @@ lot
 love
 low
 made
+major
 majority
-majorparty
 make
 manufacturing
 massive
@@ -382,13 +383,15 @@ party
 past
 patriot
 patriotic
-payforplay
+pay
 people
 performance
 permanent
 phone
 plan
+play
 plumber
+point
 police
 policy
 political

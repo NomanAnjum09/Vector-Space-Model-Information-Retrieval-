@@ -7,7 +7,7 @@ $5000
 $60
 2017i
 2nd
-3word
+3
 44
 5
 50
@@ -24,8 +24,7 @@ activity
 addiction
 adult
 affordable
-africanamerican
-africanamericans
+african
 after
 again
 agenda
@@ -59,7 +58,6 @@ believer
 benefit
 berglund
 best
-bestlaid
 better
 between
 beyond
@@ -96,6 +94,7 @@ chance
 change
 cheaper
 cheating
+chief
 child
 childcare
 choice
@@ -111,7 +110,7 @@ college
 collusion
 come
 coming
-commanderinchief
+commander
 community
 company
 competing
@@ -208,6 +207,7 @@ everyday
 everywhere
 excuse
 executive
+existing
 expanded
 face
 factory
@@ -226,10 +226,11 @@ fix
 fixing
 flag
 flint
-floodravaged
+flood
 following
 foreign
 forgotten
+free
 friend
 from
 fully
@@ -257,8 +258,8 @@ gross
 half
 hand
 happen
+hard
 harder
-hardhit
 harvested
 health
 healthcare
@@ -266,13 +267,14 @@ hear
 hedge
 help
 here
+high
 highest
-highrisk
 highway
 hike
 hillary
 hired
 history
+hit
 home
 honor
 hospital
@@ -341,9 +343,9 @@ lose
 lot
 louisiana
 love
+low
 lower
 lowering
-lowincome
 made
 magnificent
 major
@@ -363,7 +365,6 @@ men
 mexico
 michigan
 middle
-middleclass
 million
 mine
 miner
@@ -391,14 +392,12 @@ now
 nurturing
 obama
 obamacare
-obamaclinton
 occupy
 off
 offer
 office
 old
 one
-onesided
 only
 open
 opened
@@ -445,7 +444,7 @@ pound
 poverty
 power
 powered
-preexisting
+pre
 premium
 president
 price
@@ -465,6 +464,7 @@ quality
 radical
 rally
 rasmussen
+ravaged
 read
 reason
 rebuild
@@ -488,6 +488,7 @@ rigged
 right
 righteous
 rising
+risk
 road
 roanoke
 room
@@ -526,6 +527,7 @@ shipping
 shore
 show
 shut
+sided
 single
 sky
 skyscraper
@@ -577,7 +579,6 @@ talent
 talked
 tariff
 tax
-taxfree
 taxpayer
 ten
 terrorism

@@ -28,11 +28,10 @@ $9
 29
 3
 30
-35percent
+35
 39
 40
 400
-40yearold
 49
 5
 55
@@ -59,7 +58,6 @@ ago
 agreed
 agreement
 air
-airconditioner
 airport
 allow
 along
@@ -147,7 +145,6 @@ boy
 brady
 brag
 brand
-brandnew
 break
 bridge
 brilliantly
@@ -212,6 +209,7 @@ competence
 competition
 complex
 concept
+conditioner
 congratulation
 contributed
 contribution
@@ -323,6 +321,7 @@ fact
 factory
 fall
 family
+fashioned
 fast
 father
 favor
@@ -516,7 +515,6 @@ lobbyist
 local
 located
 long
-longterm
 look
 looked
 loser
@@ -590,7 +588,6 @@ newspaper
 next
 nice
 nobody
-nogood
 nomination
 nonsense
 not
@@ -612,9 +609,7 @@ oh
 oil
 ok
 old
-oldfashioned
 one
-onethird
 only
 opinion
 opposed
@@ -973,7 +968,6 @@ web
 wed
 week
 well
-wellover
 went
 were
 west

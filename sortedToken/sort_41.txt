@@ -25,6 +25,7 @@ $800
 70000
 8th
 9/11
+abiding
 abolish
 about
 accomplish
@@ -35,8 +36,7 @@ added
 admission
 admitted
 afghanistan
-africanamerican
-africanamericans
+african
 after
 again
 age
@@ -54,7 +54,6 @@ american
 americans45%
 amnesty
 an
-andrelease
 angler
 announced
 annual
@@ -71,6 +70,7 @@ asylum
 attempting
 average
 back
+backed
 background
 basic
 because
@@ -260,7 +260,6 @@ grant
 great
 greatest
 gun
-gunowner
 gutting
 hacking
 halfthe
@@ -272,9 +271,8 @@ heller
 help
 here
 heroin
-highrisk
+high
 hillary
-hillarybacked
 history
 homicide
 hour
@@ -296,6 +294,7 @@ immigration
 immunity
 implicated
 important
+income
 increase
 individual
 infiltrated
@@ -303,7 +302,6 @@ inflow
 infrastructure
 inner
 innocent
-inperson
 inside
 instantly
 insurance
@@ -316,12 +314,12 @@ ive
 japan
 jersey
 job
-jobkilling
 joblessness
 just
 justice
 keep
 killed
+killing
 korea
 land
 laptop
@@ -329,7 +327,6 @@ largest
 last
 latino
 law
-lawabiding
 lead
 learned
 leaving
@@ -348,8 +345,8 @@ look
 lose
 loss
 lost
+low
 lower
-lowincome
 made
 magnificent
 mail
@@ -394,7 +391,7 @@ need
 nevada
 never
 new
-nonenforcement
+non
 north
 not
 november
@@ -410,7 +407,6 @@ office
 officer
 ohio
 one
-onethird
 online
 only
 open
@@ -429,10 +425,12 @@ overstays
 overturning
 owe
 own
+owner
 party
 pennsylvania
 people
 percent
+person
 plan
 plant
 planted
@@ -479,11 +477,11 @@ region
 register
 regulation
 regulatory
+release
 remark
 remember
 renegotiate
 reno
-renosparks
 renowith
 repeal
 replace
@@ -499,6 +497,7 @@ right
 righteous
 ringleader
 rising
+risk
 ronald
 run
 running
@@ -541,17 +540,17 @@ side
 signature
 simple
 since
-singleyear
+single
 sixty
 skyscraper
 small
 so
-socalled
 social
 some
 sometimes
 son
 source
+spark
 stabbing
 staffer
 staggering
@@ -598,7 +597,7 @@ these
 they
 theyve
 thing
-thirdworld
+third
 this
 those
 thousand

@@ -23,7 +23,6 @@ $800
 47
 5
 550%
-5year
 60th
 75
 8
@@ -85,7 +84,6 @@ billion
 bleaching
 booth
 border
-borderexpanding
 both
 box
 branch
@@ -97,6 +95,7 @@ business
 but
 by
 c
+called
 came
 campaign
 cannot
@@ -106,19 +105,18 @@ carolina
 cartel
 cash
 cast
-catchandrelease
+catch
 center
 change
 cheat
 child
 china
 choice
-citiessocial
 citizen
-citizensobamacare
 city
 classification
 classified
+classify
 clearly
 clinton
 close
@@ -143,7 +141,7 @@ could
 couldnt
 country
 court
-coverup
+cover
 credence
 crime
 criminal
@@ -173,7 +171,7 @@ depression
 described
 destruction
 did
-directivesa
+directive
 disappearance
 disaster
 document
@@ -233,7 +231,6 @@ filibuster
 finance
 find
 first
-firstever
 fixing
 flag
 following
@@ -242,6 +239,7 @@ foreign
 former
 fourth
 fraud
+freeing
 from
 front
 gang
@@ -265,6 +263,7 @@ green
 growing
 happen
 he
+health
 healthcare
 here
 hillary
@@ -281,7 +280,6 @@ illegal
 im
 imagine
 immigrant
-immigrantsno
 immigration
 important
 inaccurate
@@ -344,8 +342,8 @@ look
 loophole
 lose
 lost
+low
 lower
-lowincome
 made
 magnitude
 major
@@ -388,10 +386,9 @@ need
 needed
 never
 new
-newlyreleased
+newly
 news
-noncitizen
-nonenforcement
+non
 north
 not
 nothing
@@ -413,8 +410,9 @@ other
 our
 out
 overcome
-overstaysexpanding
+overstays
 own
+pacific
 package
 page
 part
@@ -432,7 +430,6 @@ pew
 phone
 pivotal
 plan
-plansupport
 plant
 plausibly
 podesta
@@ -467,6 +464,7 @@ radicalism
 raising
 raking
 rally
+re
 reagan
 real
 reason
@@ -482,7 +480,7 @@ refugeeseither
 registered
 registration
 regulation
-reinstitute
+release
 released
 religious
 remark
@@ -549,7 +547,7 @@ significantly
 simple
 since
 so
-socalled
+social
 some
 speaking
 speech
@@ -614,7 +612,7 @@ too
 top
 totally
 trade
-transpacific
+trans
 trillion
 true
 trump
@@ -624,11 +622,9 @@ turned
 turnout
 two
 u
-unamerican
-unclassify
+un
 unconstitutional
 under
-undersecretary
 underway
 united
 unlimited
@@ -676,7 +672,7 @@ won
 wont
 word
 work
-workersfreeing
+worker
 working
 world
 worse

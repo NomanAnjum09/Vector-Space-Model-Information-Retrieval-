@@ -25,8 +25,7 @@ accomplish
 achievement
 advisory
 affordable
-africanamerican
-africanamericans
+african
 after
 again
 against
@@ -72,9 +71,10 @@ bluff
 board
 bold
 border
+bowl
 branstad
 break
-breakingup
+breaking
 bridge
 bright
 bring
@@ -90,7 +90,7 @@ campaign
 cant
 car
 career
-catchandrelease
+catch
 center
 central
 challenge
@@ -132,7 +132,7 @@ could
 council
 country
 court
-coverup
+cover
 create
 created
 criminal
@@ -166,7 +166,8 @@ door
 down
 dream
 dreamed
-dustbowl
+dust
+e
 early
 easy
 economic
@@ -298,7 +299,7 @@ just
 justice
 keep
 keeping
-kickstarting
+kick
 killed
 knock
 know
@@ -328,6 +329,7 @@ love
 lower
 made
 magnificent
+mail
 make
 man
 many
@@ -338,7 +340,7 @@ medium
 men
 met
 michelle
-midamerica
+mid
 middle
 million
 miner
@@ -408,6 +410,7 @@ potential
 pound
 poverty
 power
+predator
 president
 profit
 project
@@ -431,6 +434,8 @@ reduce
 refugee
 regeneration
 regulation
+related
+release
 released
 remark
 remember
@@ -490,7 +495,6 @@ shut
 simple
 since
 single
-singleyear
 six
 sky
 skyline
@@ -528,7 +532,7 @@ strong
 stronger
 subpoena
 summed
-superpredators
+super
 support
 supreme
 syria
@@ -574,7 +578,8 @@ trump
 trying
 tunnel
 turning
-twentytwo
+twenty
+two
 u
 under
 understood
@@ -625,9 +630,9 @@ with
 woman
 wondered
 word
+work
 worker
 working
-workrelated
 world
 wrote
 year

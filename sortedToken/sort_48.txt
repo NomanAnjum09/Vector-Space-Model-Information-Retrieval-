@@ -25,7 +25,7 @@ $800
 60%
 8
 8th
-9010
+90
 abide
 about
 accept
@@ -36,8 +36,7 @@ addition
 additionally
 administration
 advance
-africanamerican
-africanamericans
+african
 after
 again
 ago
@@ -63,6 +62,7 @@ ask
 asked
 authority
 back
+backed
 background
 ballot
 baltimore
@@ -233,8 +233,7 @@ file
 fire
 firing
 first
-firstever
-fivetime
+five
 fix
 fixing
 flag
@@ -275,7 +274,6 @@ he
 here
 hesitation
 hillary
-hillarybacked
 hispanic
 historic
 history
@@ -304,7 +302,6 @@ income
 inflow
 information
 inner
-inperson
 inside
 interest
 into
@@ -317,8 +314,6 @@ isnt
 issue
 it
 job
-jobkilling
-jobproducing
 john
 joining
 just
@@ -326,6 +321,7 @@ justice
 kate
 keep
 killed
+killing
 known
 labor
 lady
@@ -355,8 +351,8 @@ look
 lose
 lost
 love
+low
 lower
-lowincome
 mail
 major
 make
@@ -392,7 +388,7 @@ nearly
 needed
 never
 night
-noncitizen
+non
 none
 north
 not
@@ -444,6 +440,7 @@ presidency
 president
 presidential
 pressure
+producing
 product
 production
 promise
@@ -528,7 +525,6 @@ since
 single
 small
 so
-socalled
 some
 something
 speaking
@@ -650,7 +646,6 @@ worse
 worst
 would
 year
-yearban
 yes
 you
 your

@@ -2,7 +2,7 @@ $1000
 $1200
 $2000
 $500
-$5000dollar
+$5000
 13
 18
 2
@@ -118,7 +118,7 @@ decision
 deduct
 deduction
 deeply
-deficitlowering
+deficit
 democrat
 depend
 dependent
@@ -176,6 +176,7 @@ fight
 fighting
 finally
 financial
+financing
 first
 fixing
 flexible
@@ -204,6 +205,7 @@ growing
 growth
 guardian
 half
+hard
 hardworking
 help
 higher
@@ -247,7 +249,7 @@ keeping
 kid
 kind
 labor
-laidoff
+laid
 large
 largest
 last
@@ -268,8 +270,9 @@ look
 lost
 love
 loveyour
-lowercost
-lowincome
+low
+lower
+lowering
 lummis
 major
 make
@@ -294,7 +297,7 @@ mother
 much
 must
 my
-nannysharing
+nanny
 nation
 nearly
 need
@@ -306,6 +309,7 @@ newborn
 next
 not
 now
+off
 offer
 offered
 offering
@@ -313,7 +317,6 @@ offset
 often
 one
 only
-onsite
 open
 opponent
 or
@@ -327,8 +330,6 @@ outlining
 over
 own
 paid
-paidfor
-paidmaternity
 parent
 part
 passed
@@ -352,8 +353,7 @@ power
 president
 prevented
 private
-prochild
-profamily
+pro
 program
 proposal
 proposed
@@ -361,7 +361,6 @@ prosperous
 provide
 provided
 providing
-proworker
 pursue
 put
 quality
@@ -408,9 +407,9 @@ saving
 school
 sector
 security
-selffinancing
+self
 service
-setup
+set
 shared
 sharing
 she
@@ -419,6 +418,7 @@ sick
 sight
 since
 single
+site
 slander
 small
 smallest
@@ -433,7 +433,6 @@ spent
 start
 state
 stay
-stayathome
 still
 stop
 straight
@@ -448,7 +447,6 @@ sure
 take
 target
 tax
-taxfree
 than
 thank
 that

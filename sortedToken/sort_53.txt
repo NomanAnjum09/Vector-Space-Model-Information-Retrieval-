@@ -39,7 +39,7 @@ c
 call
 cancer
 candidate
-cashin
+cash
 center
 chance
 change
@@ -63,7 +63,7 @@ corrupt
 corruption
 could
 country
-coverup
+cover
 crime
 criminal
 cronyism
@@ -273,7 +273,7 @@ security
 see
 seen
 server
-setup
+set
 she
 shed
 shielding

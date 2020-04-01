@@ -36,6 +36,7 @@ available
 aware
 background
 basis
+bay
 becoming
 before
 beginning
@@ -72,14 +73,14 @@ comprehensively
 concern
 consider
 constant
-constantlyevolving
+constantly
 constitute
 contains
 continuing
 corrupted
 cost
-counterattack
-coverup
+counter
+cover
 create
 credit
 crime
@@ -89,8 +90,6 @@ critical
 crush
 current
 cyber
-cyberattacks
-cybercrime
 cybersecurity
 dea
 defense
@@ -109,9 +108,9 @@ distinguished
 doing
 dominance
 down
+e
 each
 easily
-ebay
 edge
 education
 email
@@ -142,7 +141,6 @@ federal
 financial
 first
 follow
-followup
 force
 foreign
 former
@@ -239,12 +237,11 @@ must
 my
 nation
 national
-nationwide
 nature
 necessary
 new
 newest
-nonstate
+non
 north
 not
 number
@@ -337,7 +334,7 @@ some
 specific
 started
 state
-stilldeveloping
+still
 stolen
 strategy
 strengthening
@@ -404,6 +401,7 @@ where
 which
 who
 why
+wide
 will
 with
 work

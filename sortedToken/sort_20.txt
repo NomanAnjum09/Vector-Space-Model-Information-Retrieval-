@@ -25,7 +25,7 @@ advancing
 advising
 advocate
 afford
-africanamericans
+african
 after
 again
 agenda
@@ -45,6 +45,7 @@ applies
 approach
 army
 around
+art
 aside
 attend
 authored
@@ -125,7 +126,7 @@ closely
 closing
 collar
 com
-combatready
+combat
 come
 comfortable
 coming
@@ -210,14 +211,15 @@ down
 drug
 duty
 each
+earned
 earth
 east
 economic
 economy
 education
 egypt
+el
 electrician
-elsisi
 email
 encrusted
 end
@@ -308,7 +310,8 @@ hammer
 handed
 handle
 happening
-hardearned
+happy
+hard
 havent
 having
 healthcare
@@ -322,7 +325,6 @@ high
 higher
 hillary
 hispanic
-hispanicamericans
 history
 home
 hostility
@@ -352,6 +354,7 @@ intellectual
 interest
 interventionist
 into
+invest
 involved
 iran
 iraq
@@ -393,7 +396,7 @@ life
 lift
 like
 living
-longterm
+long
 losing
 lost
 lot
@@ -427,7 +430,6 @@ more
 most
 mubarak
 much
-muchneeded
 murder
 muslim
 my
@@ -456,7 +458,6 @@ obamas
 off
 old
 one
-onethird
 only
 onto
 open
@@ -472,6 +473,7 @@ ouster
 out
 over
 own
+pacific
 parent
 part
 particular
@@ -481,7 +483,6 @@ partnership
 past
 path
 pay
-payforplay
 peace
 pensacola
 people
@@ -495,6 +496,7 @@ pittsburgh
 place
 plan
 plant
+play
 plumber
 poland
 policy
@@ -544,8 +546,10 @@ radical
 raise
 raked
 rally
+re
 reached
 read
+ready
 reagan
 real
 reason
@@ -561,7 +565,6 @@ regain
 regime
 region
 regulation
-reinvest
 relationship
 remark
 remember
@@ -619,6 +622,7 @@ simplification
 simply
 since
 single
+sisi
 skyscraper
 slander
 small
@@ -634,7 +638,6 @@ spent
 stability
 start
 state
-stateoftheart
 steady
 steal
 stop
@@ -678,6 +681,7 @@ these
 they
 theyve
 thing
+third
 thirteen
 this
 those
@@ -699,9 +703,9 @@ trade
 tradesman
 tragedy
 train
-transpacific
+trans
 trapped
-triggerhappy
+trigger
 troop
 true
 trump

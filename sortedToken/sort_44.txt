@@ -7,7 +7,7 @@
 30
 33000
 39
-4year
+4
 8th
 about
 above
@@ -20,7 +20,7 @@ activity
 address
 administration
 advance
-africanamerican
+african
 after
 again
 against
@@ -40,6 +40,7 @@ american
 an
 anemic
 anniversary
+announced
 another
 answer
 any
@@ -147,7 +148,7 @@ cost
 could
 country
 court
-coverup
+cover
 creating
 crime
 criminal
@@ -197,6 +198,7 @@ discussion
 disenfranchisement
 dispute
 document
+documented
 doing
 dollar
 domestic
@@ -271,7 +273,7 @@ fraud
 free
 freedom
 from
-fullpage
+full
 fund
 future
 gdp
@@ -358,7 +360,6 @@ join
 journalism
 journey
 just
-justannounced
 justice
 keep
 kingdom
@@ -462,6 +463,7 @@ outlet
 outlook
 outright
 over
+page
 painful
 palm
 part
@@ -679,7 +681,6 @@ wealth
 weapon
 weekend
 well
-welldocumented
 were
 west
 weve

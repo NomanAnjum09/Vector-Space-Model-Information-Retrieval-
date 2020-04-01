@@ -1,15 +1,17 @@
 1
 10
 17%
-1829yearolds
-2554
+18
+25
 2600
+29
 4
 4000
 46
 5
 50
 50%
+54
 55
 60%
 634
@@ -19,6 +21,7 @@
 84
 9
 abandoned
+abiding
 able
 about
 above
@@ -31,8 +34,7 @@ address
 administration
 aetna
 affected
-africanamerican
-africanamericans
+african
 after
 again
 against
@@ -51,7 +53,7 @@ anchor
 angeles
 announced
 another
-antipolice
+anti
 any
 appoint
 area
@@ -67,6 +69,7 @@ attacking
 average
 away
 back
+backed
 bad
 badge
 baltimore
@@ -130,7 +133,6 @@ city
 class
 classified
 clinton
-clintonbacked
 collecting
 color
 come
@@ -190,6 +192,7 @@ destruction
 did
 different
 difficult
+digit
 direct
 directly
 disappeared
@@ -203,7 +206,6 @@ dollar
 done
 donor
 double
-doubledigit
 down
 dream
 driven
@@ -249,6 +251,7 @@ failure
 fair
 false
 family
+fatal
 favor
 federal
 fee
@@ -290,7 +293,6 @@ giving
 god
 going
 good
-goodpaying
 government
 governor
 graduation
@@ -339,6 +341,7 @@ immigration
 importantly
 improve
 include
+income
 increase
 increased
 individual
@@ -377,7 +380,6 @@ largest
 last
 lavish
 law
-lawabiding
 lawbreaker
 lawless
 lawlessness
@@ -408,7 +410,7 @@ lost
 lot
 loudest
 love
-lowincome
+low
 main
 major
 make
@@ -422,7 +424,6 @@ massive
 mayor
 me
 mean
-mediadonorpolitical
 medium
 meet
 member
@@ -460,7 +461,7 @@ noise
 nominated
 nomination
 nominee
-nonfatal
+non
 not
 nothing
 now
@@ -503,22 +504,22 @@ party
 past
 patient
 pay
-payforplay
 paying
 peace
 peaceful
 peddling
 people
+per
 percent
 perfect
 permit
-perpupil
 personification
 pessimistic
 physical
 pick
 place
 plan
+play
 pledge
 plus
 police
@@ -555,6 +556,7 @@ protection
 protestor
 protestors
 public
+pupil
 pursue
 pushed
 put
@@ -631,7 +633,7 @@ security
 see
 seek
 seen
-selfinterest
+self
 send
 sends
 senior
@@ -711,7 +713,7 @@ thirty
 this
 those
 thousand
-threeword
+three
 thrive
 through
 throwing

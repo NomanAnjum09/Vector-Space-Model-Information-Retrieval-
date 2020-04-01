@@ -17,8 +17,8 @@ $800
 33000
 39
 4
+5
 550%
-5time
 7
 70%
 8th
@@ -42,7 +42,7 @@ admitted
 advantage
 affordable
 afghanistan
-africanamerican
+african
 after
 again
 against
@@ -171,6 +171,7 @@ company
 competitor
 complex
 complexity
+complicated
 concern
 condition
 confines
@@ -191,7 +192,7 @@ countless
 country
 county
 court
-coverup
+cover
 crashing
 create
 created
@@ -322,7 +323,7 @@ francisco
 from
 front
 fuel
-fulltime
+full
 future
 gang
 gas
@@ -367,9 +368,9 @@ hero
 heroin
 herself
 hide
+high
 highest
-highlysuccessful
-highpaying
+highly
 hillary
 hired
 hispanic
@@ -413,7 +414,6 @@ it
 ive
 jersey
 job
-jobkilling
 journal
 just
 justice
@@ -543,13 +543,13 @@ out
 outright
 over
 overall
-overcomplicated
 overregulated
 overseas
 overtaxed
 owe
 own
 owned
+pacific
 page
 part
 partnership
@@ -557,6 +557,7 @@ pas
 past
 pathway
 pay
+paying
 peddles
 people
 percent
@@ -699,7 +700,6 @@ skill
 skyline
 small
 so
-socalled
 some
 something
 son
@@ -727,6 +727,7 @@ stronger
 strongest
 subpoena
 succeed
+successful
 such
 support
 supporter
@@ -778,7 +779,7 @@ tough
 trade
 tradition
 trail
-transpacific
+trans
 trap
 tremendous
 trillion

@@ -3,7 +3,7 @@ $64000
 $800
 1%
 10
-12year
+12
 15
 18
 2017we
@@ -28,7 +28,6 @@ additionally
 administration
 advance
 african
-africanamerican
 after
 again
 ago
@@ -54,6 +53,7 @@ around
 arrested
 august
 back
+backed
 background
 ballot
 baltimore
@@ -195,7 +195,6 @@ fight
 fire
 firing
 first
-firstever
 five
 fix
 fixing
@@ -230,7 +229,6 @@ harder
 he
 here
 hillary
-hillarybacked
 hispanic
 historic
 history
@@ -265,12 +263,11 @@ islamic
 isnt
 it
 job
-jobkilling
-jobproducing
 jobsat
 just
 justice
 keep
+killing
 kind
 king
 known
@@ -301,8 +298,8 @@ lose
 losevote
 lost
 love
+low
 lower
-lowincome
 major
 make
 making
@@ -344,6 +341,7 @@ not
 november
 now
 obamacare
+offending
 offer
 office
 officer
@@ -362,11 +360,12 @@ other
 our
 out
 over
+pacific
 package
 part
 partnership
 patrol
-payforplay
+pay
 pennsylvania
 people
 percent
@@ -375,6 +374,7 @@ pharis
 philippine
 place
 plan
+play
 playing
 police
 policy
@@ -387,7 +387,8 @@ presidency
 president
 pressure
 previous
-proamerican
+pro
+producing
 product
 production
 proposing
@@ -422,7 +423,7 @@ remark
 remember
 renegotiate
 repeal
-repeatoffending
+repeat
 replace
 report
 reported
@@ -469,7 +470,6 @@ since
 six
 small
 so
-socalled
 some
 something
 speaking
@@ -532,7 +532,7 @@ together
 took
 totally
 trade
-transpacific
+trans
 treasury
 tremendous
 tried
@@ -590,8 +590,6 @@ worse
 worst
 wouldnt
 year
-yearban
-yearold
 yes
 yet
 you

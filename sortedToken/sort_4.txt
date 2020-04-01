@@ -39,7 +39,7 @@ administration
 admit
 adopt
 afghanistan
-africanamerican
+african
 after
 again
 against
@@ -69,8 +69,7 @@ ann
 announcing
 another
 answer
-antigay
-antiwomen
+anti
 any
 anymore
 anyone
@@ -85,6 +84,7 @@ asked
 asking
 attack
 back
+backed
 backer
 bad
 ballot
@@ -207,7 +207,6 @@ counting
 country
 court
 cover
-coverup
 create
 created
 creating
@@ -366,7 +365,6 @@ globalization
 go
 going
 good
-goodpaying
 got
 governed
 government
@@ -377,6 +375,7 @@ greatest
 hacked
 hand
 handed
+handedly
 handing
 happen
 harm
@@ -388,7 +387,6 @@ helpless
 here
 high
 hillary
-hillarybacked
 him
 hispanic
 history
@@ -439,7 +437,6 @@ it
 itself
 jewelry
 job
-jobkilling
 jobseverywhere
 jobsstand
 join
@@ -454,6 +451,7 @@ keeping
 kid
 killed
 killer
+killing
 know
 kuwait
 lack
@@ -492,7 +490,7 @@ look
 lose
 lost
 love
-lowwage
+low
 made
 major
 make
@@ -560,7 +558,6 @@ often
 old
 oman
 one
-onethird
 only
 open
 opened
@@ -579,6 +576,7 @@ over
 overseas
 overseaslift
 own
+pacific
 pad
 paid
 panama
@@ -590,6 +588,7 @@ party
 pas
 pathetic
 pay
+paying
 peace
 peaceful
 people
@@ -726,7 +725,7 @@ see
 seeing
 seek
 seen
-selfserving
+self
 sell
 send
 sense
@@ -735,6 +734,7 @@ sergeant
 serve
 server
 service
+serving
 set
 share
 sharia
@@ -744,12 +744,11 @@ shooter
 shore
 short
 should
-sidebyside
+side
 signed
 simply
 since
 single
-singlehandedly
 sleeping
 slept
 slogan
@@ -832,6 +831,7 @@ they
 thing
 think
 thinking
+third
 this
 those
 though
@@ -858,8 +858,8 @@ toward
 town
 track
 trade
+trans
 transfer
-transpacific
 trapping
 treaty
 trial
@@ -881,7 +881,6 @@ united
 unleashed
 uphold
 uranium
-uschina
 used
 value
 verdict
