@@ -5,4 +5,6 @@ Folder contains 56 documents containing Trump speeches.
 Porject uses Python language and QT framework for frontend.
 Block based indexing technique is used for building indexes.
 Frontend Lacks responsiveness. For a better version check my other repository
-with frontend developed on HTML.
+with frontend developed on HTML. https://github.com/NomanAnjum09/Vector_Space_Model-Information-Retrieval-EEL-
+
+
